@@ -7,3 +7,6 @@ for line in in_file:
     sum = sum + amount
     day = day + 1
 print(sum / day)
+print(Hi!)
+print(Jisu)
+print(limjisuu)
